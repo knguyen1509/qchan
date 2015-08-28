@@ -1,4 +1,4 @@
-@font-face {font-family: "iconfont";
+﻿@font-face {font-family: "iconfont";
   src: url('fonts/iconfont.eot'); /* IE9*/
   src: url('fonts/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
   url('fonts/iconfont.woff') format('woff'), /* chrome、firefox */
@@ -68,7 +68,7 @@ button.negative:active {
  *       Header       *
  **********************/
 #main_header {
-	background-color: mediumseagreen;
+	background-color: lightblue;
 	color:white;
 	position: fixed;
 	top: 0;
@@ -193,7 +193,7 @@ div#lang_sel {
 	display: none;
 }
 #method_change {
-	background-color: mediumseagreen;
+	background-color: lightblue;
 }
 #method_change a {
 	display: inline-block;
@@ -253,7 +253,7 @@ div#lang_sel {
 }
 #pop_window header {
 	height: 1em;
-	background-color: mediumseagreen;
+	background-color: lightblue;
 	padding: 1em;
 	color: white;
 	font-size: 1.5em;

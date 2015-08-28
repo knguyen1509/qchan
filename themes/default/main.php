@@ -21,7 +21,7 @@ if(!$results) {
 	<!-- Button and message in center -->
 	<div id="first_load">
 		<a id="add" title="<?=__('Upload files') ?>">&#xe600;</a>
-		<p><?=__('Upload files') ?></p>
+		<p><?=__('Dump images here') ?></p>
 		<p class="hide_mobile"><?=__('Drag and drop files here') ?></p>
 		<p class="compatible hide_mobile"><?=__('Only works with IE 10+ and other mordern browser') ?></p>
 	</div>
